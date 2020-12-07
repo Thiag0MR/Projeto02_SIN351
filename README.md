@@ -1,6 +1,6 @@
 ## Projeto02_SIN351
 
-** Grupo: ** 
+**Grupo:** 
 
 - Thiago Mendes - 5959 - Turma 1
 - Gabriel Alves - 5988 - Turma 2
